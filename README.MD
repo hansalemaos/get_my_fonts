@@ -3,7 +3,7 @@
 ```python
 
 Only for windows 
-$pip install get_my_fonts
+$pip install get-my-fonts
 from get_my_fonts import get_all_fonts
 
 df=get_all_fonts()
