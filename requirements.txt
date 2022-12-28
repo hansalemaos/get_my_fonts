@@ -1,0 +1,3 @@
+fontTools
+numpy
+pandas
